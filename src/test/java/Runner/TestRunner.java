@@ -9,7 +9,7 @@ import io.cucumber.junit.CucumberOptions;
 @RunWith(Cucumber.class)
 
 @CucumberOptions(
-		features = "D:\\Automation\\Eclipse\\FST\\src\\test\\java\\FeatureFiles",
+		features = "D:\\Automation\\Eclipse\\FST\\src\\test\\java\\FeatureFiles\\Api.feature",
 		glue = "Stepdefination",
 		monochrome = true,
 		publish=true,
